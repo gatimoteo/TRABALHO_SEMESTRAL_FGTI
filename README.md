@@ -11,7 +11,7 @@ Com o auxílio da tecnologia, podemos otimizar significativamente muitas ativida
 
 O gerenciamento da agenda de barbeiros não foge a essa tendência. Com uma agenda digital, é possível oferecer uma série de vantagens tanto para os clientes quanto para os proprietários do estabelecimento.
 
-## Aqui estão alguns motivos pelos quais digitalizar a agenda de um barbeiro é uma escolha vantajosa:
+### Aqui estão alguns motivos pelos quais digitalizar a agenda de um barbeiro é uma escolha vantajosa:
 
 Acesso 24/7: Os clientes podem acessar a agenda a qualquer hora, 24 horas por dia, 7 dias por semana. Isso elimina a necessidade de esperar pelo horário de funcionamento da barbearia para marcar um horário, o que é conveniente para os clientes com agendas lotadas.
 
