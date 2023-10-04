@@ -2,7 +2,7 @@
 O projeto em desenvolvimento visa criar um aplicativo de gerenciamento de agenda direcionado a barbeiros autônomos.
 
 # Objetivo
-Digitalizar os agendamentos de sessões de corte de cabelo e barba, permitindo aos clientes total autonomia para visualizar e reservar os horários disponíveis na agenda do profissional.
+O principal objetivo da nossa aplicação é simplificar e aprimorar a gestão da agenda de barbeiros, oferecendo uma solução digital que permitirá aos profissionais organizar seus compromissos de forma eficaz e aos clientes agendar seus serviços com facilidade. Queremos proporcionar uma experiência mais conveniente para todos os envolvidos, promovendo eficiência, redução de erros e um atendimento personalizado, garantindo que cada cliente tenha uma experiência excepcional ao marcar seus cortes de cabelo e barbas.
 
 # Motivação
 Hoje, em um mundo profundamente imerso na era digital, o uso de ferramentas analógicas tornou-se uma raridade cada vez maior tanto para indivíduos quanto para empresas. Esse fenômeno ocorre porque a adoção de aplicativos, sites e inteligência artificial tem demonstrado uma eficácia notável.
