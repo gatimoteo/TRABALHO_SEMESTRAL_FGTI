@@ -1,5 +1,5 @@
 # Contexto do Produto/Projeto
-O projeto a ser desenvolvido consiste em um aplicativo de gerenciamento de agenda para barbeiros autônomos.
+O projeto em desenvolvimento visa criar um aplicativo de gerenciamento de agenda direcionado a barbeiros autônomos.
 
 # Objetivo
 Digitalizar os agendamentos de sessões de corte de cabelo e barba, permitindo aos clientes total autonomia para visualizar e reservar os horários disponíveis na agenda do profissional.
