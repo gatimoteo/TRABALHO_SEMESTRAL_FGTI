@@ -30,4 +30,4 @@ Aqui estão alguns motivos pelos quais digitalizar a agenda de um barbeiro é um
 Em resumo, a digitalização da agenda de um barbeiro oferece benefícios significativos, tanto para os clientes quanto para os profissionais, melhorando a eficiência, a conveniência e a competitividade do negócio no ambiente cada vez mais digitalizado em que vivemos.
 
 # Personas Mapeadas
-# Lista de todos os artefatos produzidos até a Entrega 1 com seus devidos links de acesso (testar os links)
+# Link dos artefatos
