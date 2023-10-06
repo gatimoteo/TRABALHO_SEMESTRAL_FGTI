@@ -37,3 +37,4 @@ Em resumo, a digitalização da agenda de um barbeiro oferece benefícios signif
 [Persona 3](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/pedro.pdf)
 
 # Link dos artefatos
+[Project Model Canvas](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/PMCanvas/ProjectModelCanvas.pdf)
