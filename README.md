@@ -31,7 +31,9 @@ Em resumo, a digitalização da agenda de um barbeiro oferece benefícios signif
 
 # Personas Mapeadas
 [Persona 1](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/andresilva.pdf)
-[Persona 2](josecarlos.pdf](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/josecarlos.pdf)https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/josecarlos.pdf)
-[Persona 3](pedro.pdf](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/pedro.pdf)https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/pedro.pdf)
+
+[Persona 2](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/josecarlos.pdf)
+
+[Persona 3](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/Personas/pedro.pdf)
 
 # Link dos artefatos
