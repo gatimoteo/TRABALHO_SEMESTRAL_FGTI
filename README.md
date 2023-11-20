@@ -38,36 +38,36 @@ Em resumo, a digitalização da agenda de um barbeiro oferece benefícios signif
 
 # Distribuição do Backlog
 
-.**Sprint 1 [01/08 - 11/08]**
+**Sprint 1 [01/08 - 11/08]**
 - Planejamento Inicial
 - Pesquisa de Mercado e Análise de Concorrência
 
-.**Sprint 2 [14/08 - 25/08]**
+**Sprint 2 [14/08 - 25/08]**
 - Design de Interface de Usuário (UI)
 
-.**Sprint 3 [28/08 - 08/09]**
+**Sprint 3 [28/08 - 08/09]**
 - Desenvolvimento do Banco de dados
 
-.**Sprint 4 [11/09 - 22/09]**
+**Sprint 4 [11/09 - 22/09]**
 - Desenvolvimento Web
 
-.**Sprint 5 [25/09 - 06/10]**
+**Sprint 5 [25/09 - 06/10]**
 - Desenvolvimento Android
 
-.**Sprint 6 [09/10 - 20/10]**
+**Sprint 6 [09/10 - 20/10]**
 - Desenvolvimento IOS
 - Prospecção de Clientes (Beta)
 
-.**Sprint 7 [23/10 - 03/11]**
+**Sprint 7 [23/10 - 03/11]**
 - Avaliação de Feedback dos clientes Beta
 
-.**Sprint 8 [06/11 - 17/11]**
+**Sprint 8 [06/11 - 17/11]**
 - Ajustes nos desenvolvimentos
 
-.**Sprint 9 [20/11 - 01/12]**
+**Sprint 9 [20/11 - 01/12]**
 - Prospecção de Clientes (Vendas)
 
-.**Sprint 10 [04/12 - 15/12]**
+**Sprint 10 [04/12 - 15/12]**
 Lançamento Marketing
 
 As Sprints contarão com as seguintes cerimônias:
