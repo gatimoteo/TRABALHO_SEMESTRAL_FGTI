@@ -80,4 +80,5 @@ As Sprints contarão com as seguintes cerimônias:
 [Project Model Canvas](https://github.com/gatimoteo/TRABALHO_SEMESTRAL_FGTI/blob/main/Documents/PMCanvas/ProjectModelCanvas.pdf)
 
 [Link do Projeto no Jira](https://gabriel-timoteo-dos-santos.atlassian.net/jira/software/projects/TSF/boards/1)
+  
   Neste link estão todos os User Stories organizadas em épicos, Sprints e Releases
